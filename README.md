@@ -1,2 +1,0 @@
-# movieCatalog
-Created with CodeSandbox
